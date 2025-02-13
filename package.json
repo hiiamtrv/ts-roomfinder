@@ -1,0 +1,20 @@
+{
+    "name": "ts-game-roommgr",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "npx ts-node app.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ws": "^8.18.0"
+    },
+    "devDependencies": {
+        "@types/ws": "^8.5.14",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.7.3"
+    }
+}
